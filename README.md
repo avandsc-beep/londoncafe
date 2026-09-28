@@ -1,22 +1,12 @@
-# Cafetería — Menú Digital
+# London Coffee — Menú digital V3
 
-MVP mobile-first para menú QR y pedidos por WhatsApp.
+Next.js 15 + React 19. Diseño basado en la identidad gráfica suministrada de London Coffee.
 
 ## Ejecutar
-
-```bash
 npm install
 npm run dev
-```
 
-Abrir `http://localhost:3000`.
+## Producción
+npm run build
 
-## Configuración
-
-Editar `data/menu.js` para productos, precios, categorías y variantes.
-
-Cambiar `whatsapp` por el número real de la cafetería.
-
-## Vercel
-
-El proyecto está preparado para desplegarse como aplicación Next.js en Vercel.
+Preparado para Vercel.
